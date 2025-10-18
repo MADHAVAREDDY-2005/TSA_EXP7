@@ -97,19 +97,24 @@ plt
 ```
 ### OUTPUT:
 
-GIVEN DATA
+GIVEN DATA:
+
 <img width="873" height="144" alt="image" src="https://github.com/user-attachments/assets/d6764eb3-e5aa-4136-bbac-39b8a5a64a03" />
 
-ADF Statistic
+ADF Statistics:
+
 <img width="355" height="92" alt="image" src="https://github.com/user-attachments/assets/402b7bf9-522c-4d25-90d3-32d260de93ba" />
 
 ACF :
+
 <img width="651" height="493" alt="image" src="https://github.com/user-attachments/assets/7ae38c99-795e-497a-b8ae-c6b885fea8f3" />
 
 PACF:
+
 <img width="666" height="486" alt="image" src="https://github.com/user-attachments/assets/f470eefd-846a-43dd-bb03-10dcab730f31" />
 
 MSE:
+
 <img width="393" height="17" alt="image" src="https://github.com/user-attachments/assets/8e1701e3-9d63-4679-ab46-55356b98a3cd" />
 
 
